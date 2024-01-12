@@ -22,3 +22,10 @@ Contributions to the "Jajan Yuk" project are welcome. Please refer to the [contr
 This project is licensed under the [MIT License](LICENSE).
 
 For more information, please visit our [official website](https://jajan-yuk.pegelinux.my.id).
+
+## Our Team 👥
+|            Name          |                         Role                  |                                         Contacts                                            |
+| :-------------------------: | :----------------------------------------: | :-----------------------------------------------------------------------------------------: |
+|       Muhamad Yazid Imani   |   Front-End   |        [Github](https://github.com/pierreviences)           |
+|      Nanda Wijaya Putra     | Back-End       |  [Github](https://github.com/nanwp)  |
+
