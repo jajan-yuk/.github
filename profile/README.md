@@ -34,6 +34,7 @@ Backend Using Golang, arsitecture we using Microservice arsitecture for High Sca
 </br>
 
 ## **Software Architecture**
+<img width=600 src="https://github.com/jajan-yuk/.github/blob/main/Technical%20Diagrams.jpg?raw=true" alt="splash schreen">
 
 ## Contribution Guidelines
 Contributions to the "Jajan Yuk" project are welcome. Please refer to the [contribution guidelines](CONTRIBUTING.md) for details on how to contribute.
