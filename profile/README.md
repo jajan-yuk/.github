@@ -21,7 +21,7 @@
 ## Implementation Progres
 ### **Frontend**
 For Frontend we use kotlin for mobile deployment [READ MORE](https://github.com/jajan-yuk/mobile-jajanyuk) </br>
-**Schreenshoot App**
+**Schreenshoot App** [FULL FIGMA DESIGN](https://www.figma.com/file/lvjeyV7yeRIVOZhzWt7sFU/Jajan-Yuk!?type=design&node-id=122%3A6727&mode=design&t=J6GdFjP9HDhYqQOL-1)
 <p align="center">
   <img width=200 src="https://github.com/jajan-yuk/.github/blob/main/image%20(1).jpeg?raw=true" alt="splash schreen">  <img width=200 src="https://github.com/jajan-yuk/.github/blob/main/image%20(2).jpeg?raw=true" alt="splash schreen">  <img width=200 src="https://github.com/jajan-yuk/.github/blob/main/image%20(3).jpeg?raw=true" alt="splash schreen">  <img width=200 src="https://github.com/jajan-yuk/.github/blob/main/image%20(4).jpeg?raw=true" alt="splash schreen">  <img width=200 src="https://github.com/jajan-yuk/.github/blob/main/image%20(6).jpeg?raw=true" alt="splash schreen">  <img width=200 src="https://github.com/jajan-yuk/.github/blob/main/image%20(6).jpeg?raw=true" alt="splash schreen">
 </p>
